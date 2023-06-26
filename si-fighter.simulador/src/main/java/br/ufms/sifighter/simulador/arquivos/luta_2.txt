@@ -1,0 +1,4 @@
+A | B
+Right LB | Left LT
+A | LB
+B | A

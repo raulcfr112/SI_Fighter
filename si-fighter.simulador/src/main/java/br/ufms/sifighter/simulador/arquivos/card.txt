@@ -1,0 +1,12 @@
+4
+Freddy Kruger vs Sanfoneiro Fantasma
+Barba Azul vs Mônica Assassina
+Caixeiro Viajante vs Dona Mosca
+Arlequina vs Ninja Samurai
+luta_1.txt
+luta_2.txt
+luta_3.txt
+luta_4.txt
+luta_5.txt
+luta_6.txt
+luta_7.txt
